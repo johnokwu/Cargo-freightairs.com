@@ -5,7 +5,7 @@
         <!-- <figure class="logo"> <img src="#" alt="Image"> </figure> -->
         <!-- <p>+1 (850) 344 0 66<br> -->
         <br>
-        <a href="#">support@quantumquikship.com</a></p>
+        <a href="#">support@cargo-freightairs.com</a></p>
         <p>885 E. Fawn St.
           Indio, CA 92201</p>
       </div>

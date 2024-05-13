@@ -54,7 +54,7 @@
                 <h6 class="widget-title">CONTACT INFO</h6>
                 <address class="address">
                     <!-- <p>+1 (850) 344 0 66<br> -->
-                    <a href="#">support@quantumquikship.com</a></p>
+                    <a href="#">support@cargo-freightairs.com</a></p>
                 </address>
                 <h6 class="widget-title">FOLLOW US</h6>
                 <ul class="social-media">
@@ -91,7 +91,7 @@
         <div class="container">
             <!-- <div class="phone">Call Us Now: <a href="#"> +1 (850) 344 0 66 </a></div> -->
             <!-- end phone -->
-            <div class="email"> Email: <a href="#">support@quantumquikship.com</a> </div>
+            <div class="email"> Email: <a href="#">support@cargo-freightairs.com</a> </div>
             <!-- end email -->
             <div class="social-media">
                 <span>Follow us</span>

@@ -38,7 +38,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `email`, `passw`) VALUES
-(1, 'support@quantumquikship.com', 'admin');
+(1, 'support@cargo-freightairs.com', 'admin');
 
 -- --------------------------------------------------------
 
