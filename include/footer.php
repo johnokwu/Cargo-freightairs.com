@@ -30,7 +30,7 @@
       </div>
       <!-- end col-4 -->
       <div class="col-12">
-        <div class="footer-bottom"> <span>© 2023 Cargo Freight Airs| Logicstic Shipping Company</span> </div>
+        <div class="footer-bottom"> <span>© 2024 Cargo Freight Airs| Logicstic Shipping Company</span> </div>
         <!-- end footer-bottom -->
       </div>
       <!-- end col-12 -->
@@ -50,6 +50,24 @@
 <script src="js/imagesloaded.pkgd.min.js"></script>
 <script src="js/isotope.min.js"></script>
 <script src="js/scripts.js"></script>
+<!-- Smartsupp Live Chat script -->
+<script type="text/javascript">
+  var _smartsupp = _smartsupp || {};
+  _smartsupp.key = '58ae37d37ff97ce7325b33d29fac72c083fe307c';
+  window.smartsupp || (function(d) {
+    var s, c, o = smartsupp = function() {
+      o._.push(arguments)
+    };
+    o._ = [];
+    s = d.getElementsByTagName('script')[0];
+    c = d.createElement('script');
+    c.type = 'text/javascript';
+    c.charset = 'utf-8';
+    c.async = true;
+    c.src = 'https://www.smartsuppchat.com/loader.js?';
+    s.parentNode.insertBefore(c, s);
+  })(document);
+</script>
 </body>
 <!-- Mirrored from shiphaw-xpress.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 03 Dec 2022 05:58:13 GMT -->
 
